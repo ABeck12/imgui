@@ -12,6 +12,7 @@ examples/*/Debug/*
 examples/*/Release/*
 examples/*/x64/*
 Makefile
+/.vscode
 
 ## Visual Studio artifacts
 .vs
