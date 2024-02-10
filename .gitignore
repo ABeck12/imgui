@@ -13,6 +13,7 @@ examples/*/Release/*
 examples/*/x64/*
 Makefile
 /.vscode
+*.cmake
 
 ## Visual Studio artifacts
 .vs
